@@ -1,6 +1,4 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
   <div class="min-h-screen bg-gray-100 text-gray-900">
@@ -16,6 +14,4 @@
   </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
